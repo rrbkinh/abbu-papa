@@ -1,1 +1,1 @@
-https://SAM-CONVO.py
+web: python SAM-CONVO.py 
